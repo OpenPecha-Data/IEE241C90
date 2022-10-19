@@ -1,0 +1,207 @@
+id: d30371c1561849b1878d9c71de5741ae
+annotation_type: Language
+revision: '00001'
+annotations:
+  087997056a7a44fea4c64bf47ff1baaf:
+    span:
+      start: 39
+      end: 163
+      errors: null
+    metadata: null
+    language: en
+  cfb350b756c645fb9864a35bbcaf3f46:
+    span:
+      start: 203
+      end: 253
+      errors: null
+    metadata: null
+    language: en
+  584281657d874e78a8bfed63b0187afd:
+    span:
+      start: 283
+      end: 740
+      errors: null
+    metadata: null
+    language: en
+  ff4c4f292dbe45eb9681089f6dcd97b6:
+    span:
+      start: 961
+      end: 989
+      errors: null
+    metadata: null
+    language: en
+  326a4e2774374287ac884ae722547ccd:
+    span:
+      start: 1227
+      end: 1278
+      errors: null
+    metadata: null
+    language: en
+  8ee838313d094f8eab9ddbc2fbd5021b:
+    span:
+      start: 18781
+      end: 18825
+      errors: null
+    metadata: null
+    language: en
+  9868b533115d49a7b325ee486c2a028b:
+    span:
+      start: 20390
+      end: 20488
+      errors: null
+    metadata: null
+    language: en
+  2438e8cf288c49b4adfa4a3d83e60d27:
+    span:
+      start: 27992
+      end: 28052
+      errors: null
+    metadata: null
+    language: en
+  cc754f20f7a94c13a25bfd03c24eb81e:
+    span:
+      start: 68593
+      end: 68732
+      errors: null
+    metadata: null
+    language: en
+  a18264d95f244b619e5a8b4ea7770152:
+    span:
+      start: 70252
+      end: 70306
+      errors: null
+    metadata: null
+    language: en
+  598ad35f02d04dbd884e7b3ad0ae9695:
+    span:
+      start: 79245
+      end: 79266
+      errors: null
+    metadata: null
+    language: en
+  2ef84b5f3e7541b29eb9d0907205572f:
+    span:
+      start: 80718
+      end: 80775
+      errors: null
+    metadata: null
+    language: en
+  2359bb37b79f4068894437be6b0fc4f9:
+    span:
+      start: 82307
+      end: 82351
+      errors: null
+    metadata: null
+    language: en
+  55707a0fd7a248f2b148deab8904a9b4:
+    span:
+      start: 92691
+      end: 92715
+      errors: null
+    metadata: null
+    language: en
+  7c4a6b78994044109e50d185fd9b294e:
+    span:
+      start: 110544
+      end: 110572
+      errors: null
+    metadata: null
+    language: en
+  834d150baba44056940feef6612f2612:
+    span:
+      start: 136111
+      end: 136178
+      errors: null
+    metadata: null
+    language: en
+  5f5a31c988bc42cf95f0e2d050b268be:
+    span:
+      start: 176966
+      end: 177008
+      errors: null
+    metadata: null
+    language: en
+  f28ce2515d4b46758cfacbef855fa138:
+    span:
+      start: 213214
+      end: 213241
+      errors: null
+    metadata: null
+    language: en
+  6436f85742d24fc89aae491c4f638be7:
+    span:
+      start: 216288
+      end: 216354
+      errors: null
+    metadata: null
+    language: en
+  0fbee07f820a4e848bcecccbc0e759cb:
+    span:
+      start: 244870
+      end: 244917
+      errors: null
+    metadata: null
+    language: en
+  30b829209352415eae13e29cd742fdb6:
+    span:
+      start: 307208
+      end: 307230
+      errors: null
+    metadata: null
+    language: en
+  276be1ce9133496796fe209da05a459a:
+    span:
+      start: 323404
+      end: 323427
+      errors: null
+    metadata: null
+    language: en
+  64bc39d683fb4b96a39b14d95e1f762f:
+    span:
+      start: 338163
+      end: 338192
+      errors: null
+    metadata: null
+    language: en
+  8ab2e1f3f45844c8b76292b1bb6a3d1e:
+    span:
+      start: 339595
+      end: 339655
+      errors: null
+    metadata: null
+    language: en
+  59e2754b51b24bc297a692396737b832:
+    span:
+      start: 339679
+      end: 339728
+      errors: null
+    metadata: null
+    language: en
+  d561f46c7e62415b80f8d5b259748167:
+    span:
+      start: 355806
+      end: 355910
+      errors: null
+    metadata: null
+    language: en
+  aa781147c1104ce7aa2627fe1e26c5fe:
+    span:
+      start: 357426
+      end: 357623
+      errors: null
+    metadata: null
+    language: en
+  3d47a7ccf6a249178c0d3ed6a550b492:
+    span:
+      start: 363459
+      end: 363572
+      errors: null
+    metadata: null
+    language: en
+  6d74e978e6e64b49bbe161191a64ac6b:
+    span:
+      start: 369394
+      end: 369422
+      errors: null
+    metadata: null
+    language: en
